@@ -6,6 +6,7 @@ public class Client {
 		System.out.println("GIT client");
 		System.out.println("edited");
 		System.out.println("test 1");
+		System.out.println("test2");
 	}
 
 }
