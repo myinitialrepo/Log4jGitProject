@@ -7,6 +7,7 @@ public class Client {
 		System.out.println("edited");
 		System.out.println("test 1");
 		System.out.println("test2");
+		System.out.println("test3 ");
 	}
 
 }
